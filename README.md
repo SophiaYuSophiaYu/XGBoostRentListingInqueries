@@ -8,31 +8,29 @@ Rental Listing Inquiries数据集是Kaggle平台上的一个分类竞赛任务�
 
 ### 特征工程
 
-[0_EDA_RentalListingInquiries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/0_EDA_RentalListingInquiries.ipynb)
+[FE_RentListingInqueries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/FE_RentListingInqueries.ipynb)https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/FE_RentListingInqueries.ipynb)
 
-[FE_RentListingInqueries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/FE_RentListingInqueries.ipynb)
+### 逻辑回归LR和支持向量机SVM
 
-### 逻辑回归LR
-
-[2_LR_ diabetes.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/2_LR_%20diabetes.ipynb)
-
-### 支持向量机SVM
-
-[3_SVM_ diabetes.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/3_SVM_%20diabetes.ipynb)
+[[LR_SVM_RentalListingInquiries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/LR_SVM_RentalListingInquiries.ipynb)](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/2_LR_%20diabetes.ipynb)
 
 ### XGBoost
 
-[xgboost1_Rent_nestimators.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/xgboost1_Rent_nestimators.ipynb)
+[1_xgboost_Rental_n_estimators.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/1_xgboost_Rental_n_estimators.ipynb)
 
-[xgboost2_Rent_TreeDepth.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/xgboost2_Rent_TreeDepth.ipynb)
+[2_xgboost_Rental_TreeDepth_ChildWeight.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/2_xgboost_Rental_TreeDepth_ChildWeight.ipynb)
 
-[xgboost3_min_child_weight.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/xgboost3_min_child_weight.ipynb)
+[3_xgboost_Rental_TreeDepth_ChildWeight.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/3_xgboost_Rental_TreeDepth_ChildWeight.ipynb)
 
-[xgboost4_Rent_RegL1.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/xgboost4_Rent_RegL1.ipynb)
+[4_xgboost_Rental_nestimators.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/4_xgboost_Rental_nestimators.ipynb)
 
-[xgboost5_Rent_RegL2.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/xgboost5_Rent_RegL2.ipynb)
+[5_xgboost_Rental_subsample_colsample.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/5_xgboost_Rental_subsample_colsample.ipynb)
 
-[xgboost6_Rent_nestimators.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/xgboost6_Rent_nestimators.ipynb)
+[6_xgboost_Rental_RegL1L2.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/6_xgboost_Rental_RegL1L2.ipynb)
 
-[xgboost7_Rent_test.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/xgboost7_Rent_test.ipynb)
+[7_xgboost_Rental_savemodel.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/7_xgboost_Rental_savemodel.ipynb)
+
+[8_xgboost_Rental_test.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/8_xgboost_Rental_test.ipynb)
+
+
 
