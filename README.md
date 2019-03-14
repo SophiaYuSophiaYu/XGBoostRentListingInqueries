@@ -8,11 +8,11 @@ Rental Listing Inquiries数据集是Kaggle平台上的一个分类竞赛任务�
 
 ### 特征工程
 
-[FE_RentListingInqueries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/FE_RentListingInqueries.ipynb)https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/FE_RentListingInqueries.ipynb)
+[FE_RentListingInqueries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/FE_RentListingInqueries.ipynb)
 
 ### 逻辑回归LR和支持向量机SVM
 
-[[LR_SVM_RentalListingInquiries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/LR_SVM_RentalListingInquiries.ipynb)](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/2_LR_%20diabetes.ipynb)
+[LR_SVM_RentalListingInquiries.ipynb](https://github.com/SophiaYuSophiaYu/XGBoostRentListingInqueries/blob/master/LR_SVM_RentalListingInquiries.ipynb)
 
 ### XGBoost
 
